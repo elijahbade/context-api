@@ -22,6 +22,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-src\context\CartContext.tsx
-src\components\ShoppingCart.tsx
+#
+src/context/Authcontext.tsx
+src/components/Login.tsx
+src/components/Logout.tsx
 
